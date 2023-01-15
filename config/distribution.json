@@ -1,0 +1,385 @@
+{
+  "launcherVersion": "0.1b",
+  "files": [
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/options.txt",
+      "Path": "options.txt",
+      "MD5": "17d3a7f10202b5b3720d0878df484f97"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/servers.dat",
+      "Path": "servers.dat",
+      "MD5": "b5298bdf6f57cb57a80c3495a095802e"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar",
+      "Path": "libraries\\com\\electronwill\\night-config\\core\\3.6.3\\core-3.6.3.jar",
+      "MD5": "093b0ca357d3f8b922170b8d7f43948c"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar",
+      "Path": "libraries\\com\\electronwill\\night-config\\toml\\3.6.3\\toml-3.6.3.jar",
+      "MD5": "615b8e62371c536f876764591990118d"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar",
+      "Path": "libraries\\com\\github\\jponge\\lzma-java\\1.3\\lzma-java-1.3.jar",
+      "MD5": "839a86cf1533e75121d574317de78692"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "Path": "libraries\\com\\google\\code\\findbugs\\jsr305\\3.0.2\\jsr305-3.0.2.jar",
+      "MD5": "dd83accb899363c32b07d7a1b2e4ce40"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar",
+      "Path": "libraries\\com\\google\\code\\gson\\gson\\2.8.7\\gson-2.8.7.jar",
+      "MD5": "87b5c368aecef232d401f4a159e7b9af"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar",
+      "Path": "libraries\\com\\google\\errorprone\\error_prone_annotations\\2.1.3\\error_prone_annotations-2.1.3.jar",
+      "MD5": "97504b36cf871722d81a4b9e114f2a16"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/google/guava/guava/20.0/guava-20.0.jar",
+      "Path": "libraries\\com\\google\\guava\\guava\\20.0\\guava-20.0.jar",
+      "MD5": "f32a8a2524620dbecc9f6bf6a20c293f"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar",
+      "Path": "libraries\\com\\google\\guava\\guava\\25.1-jre\\guava-25.1-jre.jar",
+      "MD5": "da3838847d109ac435f0d3ed4ae1c794"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar",
+      "Path": "libraries\\com\\google\\j2objc\\j2objc-annotations\\1.1\\j2objc-annotations-1.1.jar",
+      "MD5": "49ae3204bb0bb9b2ac77062641f4a6d7"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar",
+      "Path": "libraries\\com\\nothome\\javaxdelta\\2.0.1\\javaxdelta-2.0.1.jar",
+      "MD5": "02058f3edd701db5a5230a427b9e8979"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar",
+      "Path": "libraries\\com\\opencsv\\opencsv\\4.4\\opencsv-4.4.jar",
+      "MD5": "0a370fa0055d9d2840599332bd5cbf47"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar",
+      "Path": "libraries\\commons-beanutils\\commons-beanutils\\1.9.3\\commons-beanutils-1.9.3.jar",
+      "MD5": "4a105c9d029a7edc6f2b16567d37eab6"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar",
+      "Path": "libraries\\commons-collections\\commons-collections\\3.2.2\\commons-collections-3.2.2.jar",
+      "MD5": "f54a8510f834a1a57166970bfc982e94"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar",
+      "Path": "libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar",
+      "MD5": "7f97854dc04c119d461fed14f5d8bb96"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
+      "Path": "libraries\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar",
+      "MD5": "040b4b4d8eac886f6b4a2a3bd2f31b00"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar",
+      "Path": "libraries\\cpw\\mods\\grossjava9hacks\\1.3.3\\grossjava9hacks-1.3.3.jar",
+      "MD5": "d19b487241008d8e6111137a289ea1d7"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar",
+      "Path": "libraries\\cpw\\mods\\modlauncher\\8.1.3\\modlauncher-8.1.3.jar",
+      "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt",
+      "Path": "libraries\\de\\oceanlabs\\mcp\\mcp_config\\1.16.5-20210115.111550\\mcp_config-1.16.5-20210115.111550-mappings.txt",
+      "MD5": "428ebb172f1e2d80fcc03331de0eb42e"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip",
+      "Path": "libraries\\de\\oceanlabs\\mcp\\mcp_config\\1.16.5-20210115.111550\\mcp_config-1.16.5-20210115.111550.zip",
+      "MD5": "05a7228e40be7a7daf6abfd19bdb4f1e"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar",
+      "Path": "libraries\\de\\siegmar\\fastcsv\\2.0.0\\fastcsv-2.0.0.jar",
+      "MD5": "4addb828f7bf861180ff219027707f7e"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/jodah/typetools/0.8.3/typetools-0.8.3.jar",
+      "Path": "libraries\\net\\jodah\\typetools\\0.8.3\\typetools-0.8.3.jar",
+      "MD5": "ee4596e1413cc1a5e080c971d6064753"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/md-5/SpecialSource/1.10.0/SpecialSource-1.10.0.jar",
+      "Path": "libraries\\net\\md-5\\SpecialSource\\1.10.0\\SpecialSource-1.10.0.jar",
+      "MD5": "a427608eace6462ea605af40f962144e"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar",
+      "Path": "libraries\\net\\md-5\\SpecialSource\\1.8.5\\SpecialSource-1.8.5.jar",
+      "MD5": "bfb833db1ebffacce294d325e1031cb9"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+      "Path": "libraries\\net\\minecraft\\client\\1.16.5-20210115.111550\\client-1.16.5-20210115.111550-extra.jar",
+      "MD5": "dbed747390f81e10cee40500b726431a"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar.cache",
+      "Path": "libraries\\net\\minecraft\\client\\1.16.5-20210115.111550\\client-1.16.5-20210115.111550-extra.jar.cache",
+      "MD5": "e8a6d43a16b2e6124baaa4b5d814afc2"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
+      "Path": "libraries\\net\\minecraft\\client\\1.16.5-20210115.111550\\client-1.16.5-20210115.111550-slim.jar",
+      "MD5": "df78297c0b6526e16f2bb7a685fd6b96"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar.cache",
+      "Path": "libraries\\net\\minecraft\\client\\1.16.5-20210115.111550\\client-1.16.5-20210115.111550-slim.jar.cache",
+      "MD5": "1cd3572982a24906695a3d2a7eb035de"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+      "Path": "libraries\\net\\minecraft\\client\\1.16.5-20210115.111550\\client-1.16.5-20210115.111550-srg.jar",
+      "MD5": "457a92782162937253bd8ee9a718bc06"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar",
+      "Path": "libraries\\net\\minecraftforge\\accesstransformers\\3.0.1\\accesstransformers-3.0.1.jar",
+      "MD5": "ada4c365c3d0de73c05a94010432b547"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar",
+      "Path": "libraries\\net\\minecraftforge\\binarypatcher\\1.0.12\\binarypatcher-1.0.12.jar",
+      "MD5": "838cc74c3c15daca8a30940dad489532"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar",
+      "Path": "libraries\\net\\minecraftforge\\coremods\\4.0.6\\coremods-4.0.6.jar",
+      "MD5": "e56551f2586d3ff08beb24f5ea44a7d3"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar",
+      "Path": "libraries\\net\\minecraftforge\\eventbus\\4.0.0\\eventbus-4.0.0.jar",
+      "MD5": "84c4758e6139b70146104be5bb1300b5"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar",
+      "Path": "libraries\\net\\minecraftforge\\forge\\1.16.5-36.2.39\\forge-1.16.5-36.2.39-client.jar",
+      "MD5": "253bbbe4aa8a7752615ea759fa178c80"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
+      "Path": "libraries\\net\\minecraftforge\\forge\\1.16.5-36.2.39\\forge-1.16.5-36.2.39-universal.jar",
+      "MD5": "3337e44edf13c5759548623b5866b967"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar",
+      "Path": "libraries\\net\\minecraftforge\\forge\\1.16.5-36.2.39\\forge-1.16.5-36.2.39.jar",
+      "MD5": "4afee0135f47547182faa2ea88efebac"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar",
+      "Path": "libraries\\net\\minecraftforge\\forgespi\\3.2.0\\forgespi-3.2.0.jar",
+      "MD5": "8f1f6942d17d88d704324e8000666a1a"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/installertools/1.2.6/installertools-1.2.6.jar",
+      "Path": "libraries\\net\\minecraftforge\\installertools\\1.2.6\\installertools-1.2.6.jar",
+      "MD5": "9be31938b0f715a5a5c20ab34a6e951b"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar",
+      "Path": "libraries\\net\\minecraftforge\\jarsplitter\\1.1.4\\jarsplitter-1.1.4.jar",
+      "MD5": "ecb9d6b0438948bef9bc0209aad4e917"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar",
+      "Path": "libraries\\net\\minecraftforge\\nashorn-core-compat\\15.1.1.1\\nashorn-core-compat-15.1.1.1.jar",
+      "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar",
+      "Path": "libraries\\net\\minecraftforge\\srgutils\\0.4.3\\srgutils-0.4.3.jar",
+      "MD5": "3b588ea9fd2bfaa3ab6a75779f16ad93"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar",
+      "Path": "libraries\\net\\minecraftforge\\unsafe\\0.2.0\\unsafe-0.2.0.jar",
+      "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar",
+      "Path": "libraries\\net\\minecrell\\terminalconsoleappender\\1.2.0\\terminalconsoleappender-1.2.0.jar",
+      "MD5": "679363fa893293791e55a21f81342f87"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar",
+      "Path": "libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.9\\jopt-simple-4.9.jar",
+      "MD5": "39c6476e4de3d4f90ad4ca0ddca48ec2"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+      "Path": "libraries\\net\\sf\\jopt-simple\\jopt-simple\\5.0.4\\jopt-simple-5.0.4.jar",
+      "MD5": "eb0d9dffe9b0eddead68fe678be76c49"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar",
+      "Path": "libraries\\net\\sf\\opencsv\\opencsv\\2.3\\opencsv-2.3.jar",
+      "MD5": "9eebabaa007dc329845e5ab3c12b4e6b"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar",
+      "Path": "libraries\\org\\antlr\\antlr4-runtime\\4.9.1\\antlr4-runtime-4.9.1.jar",
+      "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar",
+      "Path": "libraries\\org\\apache\\commons\\commons-collections4\\4.2\\commons-collections4-4.2.jar",
+      "MD5": "b290524be8a0dbb6521df95f4ce80c8d"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar",
+      "Path": "libraries\\org\\apache\\commons\\commons-lang3\\3.8.1\\commons-lang3-3.8.1.jar",
+      "MD5": "540b1256d887a6993ecbef23371a3302"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar",
+      "Path": "libraries\\org\\apache\\commons\\commons-text\\1.3\\commons-text-1.3.jar",
+      "MD5": "e12b93c4a7fa6326e8afe557243c8651"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+      "Path": "libraries\\org\\apache\\httpcomponents\\httpclient\\4.3.3\\httpclient-4.3.3.jar",
+      "MD5": "88cc3123fce88d61b7c2cdbfc33542c5"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+      "Path": "libraries\\org\\apache\\httpcomponents\\httpcore\\4.3.2\\httpcore-4.3.2.jar",
+      "MD5": "ee3d34dce4a30c7d3002cadf8c9172c1"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
+      "Path": "libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.15.0\\log4j-api-2.15.0.jar",
+      "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
+      "Path": "libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.15.0\\log4j-core-2.15.0.jar",
+      "MD5": "81e0433ae00602c0e4d00424d213b0ab"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar",
+      "Path": "libraries\\org\\apache\\logging\\log4j\\log4j-slf4j18-impl\\2.15.0\\log4j-slf4j18-impl-2.15.0.jar",
+      "MD5": "196442f1bdde4dbb0f576eed616e21b0"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar",
+      "Path": "libraries\\org\\apache\\maven\\maven-artifact\\3.6.3\\maven-artifact-3.6.3.jar",
+      "MD5": "b83c1943a0783f3f81d4cd4c83c363e1"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar",
+      "Path": "libraries\\org\\checkerframework\\checker-qual\\2.0.0\\checker-qual-2.0.0.jar",
+      "MD5": "94fe1af76c10006fbc5b988180b71bf0"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar",
+      "Path": "libraries\\org\\codehaus\\mojo\\animal-sniffer-annotations\\1.14\\animal-sniffer-annotations-1.14.jar",
+      "MD5": "9d42e46845c874f1710a9f6a741f6c14"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/jline/jline/3.12.1/jline-3.12.1.jar",
+      "Path": "libraries\\org\\jline\\jline\\3.12.1\\jline-3.12.1.jar",
+      "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm\\6.1.1\\asm-6.1.1.jar",
+      "MD5": "04b72e489b64c54d5776ab59f330bd23"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm/9.1/asm-9.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm\\9.1\\asm-9.1.jar",
+      "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-analysis\\6.1.1\\asm-analysis-6.1.1.jar",
+      "MD5": "b58c31c1ca0496e6773cc0311f97ceda"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-analysis\\9.1\\asm-analysis-9.1.jar",
+      "MD5": "f0e82941173b6049c03e8214ace70ecd"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-commons\\6.1.1\\asm-commons-6.1.1.jar",
+      "MD5": "ca6299118bc7b85201671502526bd68b"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-commons\\9.1\\asm-commons-9.1.jar",
+      "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-tree\\6.1.1\\asm-tree-6.1.1.jar",
+      "MD5": "d640f7d0efc57192870f73a87f576469"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-tree\\9.1\\asm-tree-9.1.jar",
+      "MD5": "c2536add9ebcfa8066fcfb0dbe865879"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar",
+      "Path": "libraries\\org\\ow2\\asm\\asm-util\\9.1\\asm-util-9.1.jar",
+      "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar",
+      "Path": "libraries\\org\\spongepowered\\mixin\\0.8.4\\mixin-0.8.4.jar",
+      "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/trove/trove/1.0.2/trove-1.0.2.jar",
+      "Path": "libraries\\trove\\trove\\1.0.2\\trove-1.0.2.jar",
+      "MD5": "487d72e3da5947890376ddfc5e14442e"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/mods/biowarboss-2.1.jar",
+      "Path": "mods\\biowarboss-2.1.jar",
+      "MD5": "22bf9f27db943ed84fb6fc4f9d7de737"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/mods/chiselsandbits-0.3.4-RELEASE_2_1.jar",
+      "Path": "mods\\chiselsandbits-0.3.4-RELEASE_2_1.jar",
+      "MD5": "2e49acb77e4278ca8251f42ee13db4eb"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/mods/geckolib-forge-1.16.5-3.0.93.jar",
+      "Path": "mods\\geckolib-forge-1.16.5-3.0.93.jar",
+      "MD5": "0a252201ace337f14ca581e87d9bd3e1"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/mods/lightblock-forge-1.16.5-1.03.jar",
+      "Path": "mods\\lightblock-forge-1.16.5-1.03.jar",
+      "MD5": "d0ca67e4ee3968dc21f63e06a39c3f1f"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json",
+      "Path": "versions\\1.16.5-forge-36.2.39\\1.16.5-forge-36.2.39.json",
+      "MD5": "2090bfafdec72f885ddf95300bd96714"
+    }
+  ]
+}
