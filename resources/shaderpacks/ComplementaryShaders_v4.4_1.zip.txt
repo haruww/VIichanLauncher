@@ -1,0 +1,2 @@
+#Tue Jan 03 10:21:00 KST 2023
+FOG2=false

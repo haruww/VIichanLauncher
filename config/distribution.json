@@ -7,6 +7,16 @@
       "MD5": ""
     },
     {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/optionsof.txt",
+      "Path": "optionsof.txt",
+      "MD5": ""
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/optionsshaders.txt",
+      "Path": "optionsshaders.txt",
+      "MD5": ""
+    },
+    {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/servers.dat",
       "Path": "servers.dat",
       "MD5": "b5298bdf6f57cb57a80c3495a095802e"
@@ -375,6 +385,26 @@
       "Url": "https://haruww.github.io/VIichanLauncher/resources/mods/lightblock-forge-1.16.5-1.03.jar",
       "Path": "mods\\lightblock-forge-1.16.5-1.03.jar",
       "MD5": "d0ca67e4ee3968dc21f63e06a39c3f1f"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/mods/OptiFine_1.16.5_HD_U_G8.jar",
+      "Path": "mods\\OptiFine_1.16.5_HD_U_G8.jar",
+      "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/resourcepacks/HappyBirthday_1.0.3.zip",
+      "Path": "resourcepacks\\HappyBirthday_1.0.3.zip",
+      "MD5": "07fe0a35b084bd301d2c17cc76bd6617"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/shaderpacks/ComplementaryShaders_v4.4_1.zip",
+      "Path": "shaderpacks\\ComplementaryShaders_v4.4_1.zip",
+      "MD5": "e0c2c4b151699beaf72a1829be44eacd"
+    },
+    {
+      "Url": "https://haruww.github.io/VIichanLauncher/resources/shaderpacks/ComplementaryShaders_v4.4_1.zip.txt",
+      "Path": "shaderpacks\\ComplementaryShaders_v4.4_1.zip.txt",
+      "MD5": "11ffd48ea44328ad400c7e40c5cb78ec"
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json",
