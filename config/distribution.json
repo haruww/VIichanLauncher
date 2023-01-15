@@ -4,37 +4,12 @@
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/options.txt",
       "Path": "options.txt",
-      "MD5": "17d3a7f10202b5b3720d0878df484f97"
+      "MD5": ""
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/servers.dat",
       "Path": "servers.dat",
       "MD5": "b5298bdf6f57cb57a80c3495a095802e"
-    },
-    {
-      "Url": "https://haruww.github.io/VIichanLauncher/resources/config/chiselsandbits-client.toml",
-      "Path": "config\\chiselsandbits-client.toml",
-      "MD5": "0ae3f5afc3c5895525792f4c8729f7e5"
-    },
-    {
-      "Url": "https://haruww.github.io/VIichanLauncher/resources/config/chiselsandbits-common.toml",
-      "Path": "config\\chiselsandbits-common.toml",
-      "MD5": "43957c94d6950879b95268ce870bdab8"
-    },
-    {
-      "Url": "https://haruww.github.io/VIichanLauncher/resources/config/fml.toml",
-      "Path": "config\\fml.toml",
-      "MD5": "5961f97ddaa04677acd58a89aaf3826c"
-    },
-    {
-      "Url": "https://haruww.github.io/VIichanLauncher/resources/config/forge-client.toml",
-      "Path": "config\\forge-client.toml",
-      "MD5": "c352e2faa854312ac4bf44773720b53f"
-    },
-    {
-      "Url": "https://haruww.github.io/VIichanLauncher/resources/config/forge-common.toml",
-      "Path": "config\\forge-common.toml",
-      "MD5": "94977d1b9c60ebe6f0cfc34c0bbaa8c8"
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/libraries/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar",
