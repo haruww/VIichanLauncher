@@ -4,17 +4,17 @@
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/options.txt",
       "Path": "options.txt",
-      "MD5": ""
+      "MD5": "894ec33df7b1a3f52a91a3e8c42dc166"
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/optionsof.txt",
       "Path": "optionsof.txt",
-      "MD5": ""
+      "MD5": "6c9732f4fb66765fa32c22f3900c17e4"
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/optionsshaders.txt",
       "Path": "optionsshaders.txt",
-      "MD5": ""
+      "MD5": "f902395f6f2a5c194a5c133d2351a37a"
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/servers.dat",
@@ -599,7 +599,7 @@
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/shaderpacks/ComplementaryShaders_v4.4_1.zip.txt",
       "Path": "shaderpacks\\ComplementaryShaders_v4.4_1.zip.txt",
-      "MD5": ""
+      "MD5": "11ffd48ea44328ad400c7e40c5cb78ec"
     },
     {
       "Url": "https://haruww.github.io/VIichanLauncher/resources/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json",
