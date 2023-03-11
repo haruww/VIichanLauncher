@@ -286,13 +286,13 @@
           }
         },
         {
-          "id": "io.github.singlerr:EsquisseV2:1.2.1@jar",
+          "id": "io.github.singlerr:EsquisseV2:1.0-SNAPSHOT@jar",
           "name": "EsquisseV2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 49472621,
-            "url": "https://haruww.github.io/VIichanLauncher/Wak/servers/Wak-1.12.2/forgemods/required/EsquisseV2-1.2.1.jar",
-            "MD5": "2860a702a13df7f4e8c939b40aac0b54"
+            "size": 10537030,
+            "url": "https://haruww.github.io/VIichanLauncher/Wak/servers/Wak-1.12.2/forgemods/required/EsquisseV2-1.2.jar",
+            "MD5": "e944bce7a84de8379636aed7fdb8b158"
           }
         },
         {
